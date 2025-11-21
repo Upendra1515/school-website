@@ -70,7 +70,7 @@ body {
 }
 
 .main-nav ul li a:hover, .main-nav ul li a.active {
-    background-color: green;     /* Slightly lighter teal */
+    background-color: #00796b;     /* Slightly lighter teal */
 }
 
 /* --- 2. Main Content Sections --- */
@@ -178,4 +178,5 @@ background-color: transparent;
     .card-grid {
         justify-content: center;
     }
+
 }
